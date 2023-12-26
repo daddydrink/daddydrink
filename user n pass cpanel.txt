@@ -1,0 +1,4 @@
+cpanel
+user n pass
+daddydrink
+d@ddydr1nk
