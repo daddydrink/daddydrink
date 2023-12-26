@@ -1,0 +1,9 @@
+epresso		$3
+piccolo		$3.5
+cappucino	$4
+latte		$4.5
+mocha		$5
+americano	$3.5
+filter		$3.25
+chocolate	$3.5
+frappucino	$4.5
