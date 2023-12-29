@@ -179,7 +179,7 @@ body {
   background-size: cover;
   background-position: center;
   position: relative;
-  mask-image: linear-gradient(rgba(0,0,0,1) 90%, rgba(0,0,0,0));
+  mask-image: linear-gradient(rgba(0, 0, 0, 1) 90%, rgba(0, 0, 0, 0));
 }
 
 /* .hero::after {
@@ -200,7 +200,7 @@ body {
   position: absolute;
   /* background: salmon; */
   inset: 0;
-  mask-image: url('../img/header-bg.svg');
+  mask-image: url("../img/header-bg.svg");
   mask-repeat: no-repeat;
   mask-size: cover;
   mask-position: center;
