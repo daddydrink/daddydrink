@@ -2,3 +2,4 @@ cpanel
 user n pass
 daddydrink
 d@ddydr1nk
+public_html/daddydrink
